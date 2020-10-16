@@ -9,7 +9,8 @@
     box-shadow: 5px 10px paleturquoise;
     display: flex;
     flex-direction: column;
-    width: 25vw;
+    width: 100vw;
+    max-width: 360px;
     height: auto;
     margin: 0 auto;
     padding: 2em;;
