@@ -9,11 +9,10 @@
     box-shadow: 5px 10px paleturquoise;
     display: flex;
     flex-direction: column;
-    width: 100vw;
-    max-width: 360px;
+    width: 360px;
     height: auto;
     margin: 0 auto;
-    padding: 2em;;
+    padding: 2em;
 }
 
 .card__image {
@@ -33,7 +32,7 @@
 }
 
 .card__list {
-    padding-left: 0;;
+    padding-left: 0;
 }
 
 .label {
